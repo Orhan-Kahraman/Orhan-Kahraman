@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🚀 Orhan Kahraman - 📱 Flutter Developer
 🔭 I’m currently working on Flutter <br>🌱 And also i’m still learning Flutter
 
 
@@ -15,14 +15,12 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Orhan-Kahraman&icon=6&color=1)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
+  ## ☕️ You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/herorhan999) 
 
+[![](https://visitcount.itsvg.in/api?id=Orhan-Kahraman&icon=6&color=1)](https://visitcount.itsvg.in)
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
