@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Orhan</h1>
-<h3 align="center">A flutter developer who is obsessed with MVVM and clean code.</h3>
+<h1 align="left">Hi 👋, I'm Orhan</h1>
+<h3 align="left">A flutter developer who is obsessed with MVVM and clean code.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=orhan-kahraman&label=Profile%20views&color=0e75b6&style=flat" alt="orhan-kahraman" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Orhan-Kahraman&label=Profile%20views&color=0e75b6&style=flat" alt="Orhan-Kahraman" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=orhan-kahraman" alt="orhan-kahraman" /></a> </p>
 
